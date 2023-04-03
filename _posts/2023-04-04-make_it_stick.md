@@ -22,3 +22,7 @@ Contrary to many learners' belief, rereading and plain writting what we learn ar
 We have two types of practices, massed and interleaved/varied. Massed practice is when we go through a subject all at once and interleaved/varied practice is when we change the subject that we are working on every once in a while. The latter helps us to identify the solutions (usually mixed types) in an unfamiliar situation, same as real life.
 
 > The elements that shape our intellectual abilities lie with in our own control. Understanding this, enables us to see failure as a badge of effort and a source of useful information - the need to dig deeper or try a different strategy. When learning is hard, we are doing important work. Striving and setback are essential if we are to surpass our current level of performance toward true expertise. **Making mistakes and correcting them builds the bridge to advanced learning**
+
+Research says that the knowledge gained from rereading is transistory and it is bad for three reasons: it is time consuming, it does not result in durable memory, and it deceives us into thinking that getting familiar with the text is the same as knowing the content. *The amount of study time is no measure of mastery*
+
+**Learning is stronger when it matters, when it is personal.**
