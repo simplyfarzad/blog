@@ -26,3 +26,10 @@ We have two types of practices, massed and interleaved/varied. Massed practice i
 Research says that the knowledge gained from rereading is transistory and it is bad for three reasons: it is time consuming, it does not result in durable memory, and it deceives us into thinking that getting familiar with the text is the same as knowing the content. *The amount of study time is no measure of mastery*
 
 **Learning is stronger when it matters, when it is personal.**
+
+* Mere repetition does not enhance learning. In fact, it makes sense to reread a text once if there has been a meaningful lapse of time since the first reading, but multiple rereadings in close succession, is more time-consuming than useful.
+
+**The illusions of knowing**: Some learners think that the essense of the subject lies in the syntax in which it is described. Mastering the text is not the same as mastering the ideas behind them. Just because we are following a subject (a lecture, a book, etc.) with ease, does not mean we are mastering it. This is an example of poor metacognition, we don't know what we don't know.
+
+> Detour: What is metacognition? 
+
