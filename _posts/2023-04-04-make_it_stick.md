@@ -31,7 +31,11 @@ Research says that the knowledge gained from rereading is transistory and it is 
 
 **The illusions of knowing**: Some learners think that the essense of the subject lies in the syntax in which it is described. Mastering the text is not the same as mastering the ideas behind them. Just because we are following a subject (a lecture, a book, etc.) with ease, does not mean we are mastering it. This is an example of poor metacognition, we don't know what we don't know.
 
-> Detour: What is metacognition? 
+> Detour: What is metacognition? Metacognition is, put simply, thinking about one’s thinking.  More precisely, it refers to the processes used to plan, monitor, and assess one’s understanding and performance. Metacognition includes a critical awareness of a) one’s thinking and learning and b) oneself as a thinker and learner [1].
 
 **Testing: Scary or Helpful?**: It would be helpful to think of _testing_ as a method to retrieve information from our memory rather than a _test_ to evaluate our knowledge. First, testing helps us understand which part of each subject we did quite get, so we can study more. Second, recalling what we learned strengthen our memory. **In effect, it is a way to stop forgetting what we have learned.**
 
+
+
+# References
+[1] [Metacognition | Center for Teaching | Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/#:~:text=Metacognition%20is%2C%20put%20simply%2C%20thinking,as%20a%20thinker%20and%20learner.)
