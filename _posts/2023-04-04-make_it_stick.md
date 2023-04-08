@@ -33,3 +33,5 @@ Research says that the knowledge gained from rereading is transistory and it is 
 
 > Detour: What is metacognition? 
 
+**Testing: Scary or Helpful?**: It would be helpful to think of _testing_ as a method to retrieve information from our memory rather than a _test_ to evaluate our knowledge. First, testing helps us understand which part of each subject we did quite get, so we can study more. Second, recalling what we learned strengthen our memory. **In effect, it is a way to stop forgetting what we have learned.**
+
