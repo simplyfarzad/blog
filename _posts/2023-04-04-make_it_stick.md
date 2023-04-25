@@ -33,7 +33,13 @@ Research says that the knowledge gained from rereading is transistory and it is 
 
 > Detour: What is metacognition? Metacognition is, put simply, thinking about one’s thinking.  More precisely, it refers to the processes used to plan, monitor, and assess one’s understanding and performance. Metacognition includes a critical awareness of a) one’s thinking and learning and b) oneself as a thinker and learner [1].
 
-**Testing: Scary or Helpful?**: It would be helpful to think of _testing_ as a method to retrieve information from our memory rather than a _test_ to evaluate our knowledge. First, testing helps us understand which part of each subject we did quite get, so we can study more. Second, recalling what we learned strengthen our memory. **In effect, it is a way to stop forgetting what we have learned.**
+**Testing: Scary or Helpful?**: It would be helpful to think of _testing_ as a method to retrieve information from our memory rather than a _test_ to evaluate our knowledge. First, testing helps us understand which part of each subject we did not quite get, so we can study more. Second, recalling what we learned strengthen our memory. **In effect, it is a way to stop forgetting what we have learned.**
+
+One method of testing our knowledge is reflecting, meaning to recalling the information/profession every once in a while to build the neural pathways. This way when we need to retrieve that information in a short manner and it becomes like a reflex.
+
+Apparently, we tend to lose about 70% of information short time after we have heard or read them, but the curve is more gentle for the other 30%.
+
+Again, retrieval must be repeated again and again in an spaced out manner which requires cognitive effort, rather than mindless recitation.
 
 
 
